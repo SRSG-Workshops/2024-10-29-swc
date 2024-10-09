@@ -20,7 +20,7 @@ logo_site: "https://rsgsoton.net"
 # Specify the location of the workshop
 venue: "Physics Seminar Room"           # name of location use "online" if online
 address: "B46/5081, Highfield Campus"         # address of location or url of platform
-platform: "Microsoft Teams"
+platform-name: "Microsoft Teams"
 country: "GB"         # e.g. gb
 language: "EN"        # e.g. en
 latitude: "50.909698"    # latitude of location (Soton: 50.909698)
@@ -41,13 +41,6 @@ instructor-email:
 helper:
   - "TBC"
 # ======================================================================================================================
-
-# See https://github.com/Southampton-RSG-Training/setup-documents for setup instructions.
-#setup_docs:
-#  - git_setup.md
-#  - github_and_ssh.md
-#  - download_shell_data.md
-
 # Details about the lessons
 lessons:
   - title: Automating Tasks with the Unix Shell  # Lesson title
